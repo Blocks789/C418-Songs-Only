@@ -1,1 +1,1 @@
-basically just for bug reports lol.
+basically just for bug reports and pull requests lol.
