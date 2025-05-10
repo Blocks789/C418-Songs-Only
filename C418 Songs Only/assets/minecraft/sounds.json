@@ -132,6 +132,10 @@
           {
               "name": "music/game/wet_hands",
               "stream": true
+          },
+          {
+            "name": "music/game/water/shuniji",
+            "stream": true
           }
       ]
   },
@@ -360,10 +364,6 @@
   "music.overworld.deep_dark": {
       "replace": true,
       "sounds": [
-        {
-            "name": "music/game/nether/concrete_halls",
-            "stream": true
-        }
       ]
   },
   "music.overworld.dripstone_caves": {
@@ -400,6 +400,10 @@
           {
               "name": "music/game/subwoofer_lullaby",
               "stream": true
+          },
+          {
+            "name": "music/game/water/shuniji",
+            "stream": true
           }
       ]
   },
@@ -461,6 +465,10 @@
           {
               "name": "music/game/wet_hands",
               "stream": true
+          },
+          {
+            "name": "music/game/water/shuniji",
+            "stream": true
           }
       ]
   },
@@ -514,6 +522,10 @@
           {
               "name": "music/game/sweden",
               "stream": true
+          },
+          {
+            "name": "music/game/water/shuniji",
+            "stream": true
           }
       ]
   },
@@ -575,6 +587,10 @@
           {
               "name": "music/game/wet_hands",
               "stream": true
+          },
+          {
+            "name": "music/game/water/shuniji",
+            "stream": true
           }
       ]
   },
@@ -628,6 +644,10 @@
           {
               "name": "music/game/piano3",
               "stream": true
+          },
+          {
+            "name": "music/game/water/shuniji",
+            "stream": true
           }
       ]
   },
@@ -673,6 +693,10 @@
               "name": "music/game/sweden",
               "stream": true,
               "weight": 2
+          },
+          {
+            "name": "music/game/water/shuniji",
+            "stream": true
           }
       ]
   },
@@ -710,6 +734,10 @@
           {
               "name": "music/game/subwoofer_lullaby",
               "stream": true
+          },
+          {
+            "name": "music/game/water/shuniji",
+            "stream": true
           }
       ]
   },
@@ -835,6 +863,10 @@
               "name": "music/game/wet_hands",
               "stream": true,
               "weight": 3
+          },
+          {
+            "name": "music/game/water/shuniji",
+            "stream": true
           }
       ]
   },
@@ -912,6 +944,10 @@
           {
               "name": "music/game/subwoofer_lullaby",
               "stream": true
+          },
+          {
+            "name": "music/game/water/shuniji",
+            "stream": true
           }
       ]
   },
@@ -973,6 +1009,10 @@
           {
               "name": "music/game/wet_hands",
               "stream": true
+          },
+          {
+            "name": "music/game/water/shuniji",
+            "stream": true
           }
       ]
   },
@@ -1066,6 +1106,10 @@
           {
               "name": "music/game/wet_hands",
               "stream": true
+          },
+          {
+            "name": "music/game/water/shuniji",
+            "stream": true
           }
       ]
   },
@@ -1201,6 +1245,10 @@
           {
               "name": "music/game/wet_hands",
               "stream": true
+          },
+          {
+            "name": "music/game/water/shuniji",
+            "stream": true
           }
       ]
   },
@@ -1218,6 +1266,10 @@
           {
               "name": "music/game/sweden",
               "stream": true
+          },
+          {
+            "name": "music/game/water/shuniji",
+            "stream": true
           }
       ]
   },
@@ -1247,6 +1299,10 @@
           {
               "name": "music/game/subwoofer_lullaby",
               "stream": true
+          },
+          {
+            "name": "music/game/water/shuniji",
+            "stream": true
           }
       ]
   },
@@ -1276,6 +1332,10 @@
           {
               "name": "music/game/subwoofer_lullaby",
               "stream": true
+          },
+          {
+            "name": "music/game/water/shuniji",
+            "stream": true
           }
       ]
   },
@@ -1329,6 +1389,10 @@
           {
               "name": "music/game/wet_hands",
               "stream": true
+          },
+          {
+            "name": "music/game/water/shuniji",
+            "stream": true
           }
       ]
   },
