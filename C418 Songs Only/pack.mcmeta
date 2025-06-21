@@ -5,6 +5,6 @@
       "min_inclusive": 5,
       "max_inclusive": 63
     },
-    "description": "Only allows C418's music to play."
+    "description": "Only allow C418's music to play."
   }
 }
