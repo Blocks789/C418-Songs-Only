@@ -136,6 +136,14 @@
           {
             "name": "music/game/water/shuniji",
             "stream": true
+          },
+          {
+              "name": "music/menu/menu1",
+              "stream": true
+          },
+          {
+              "name": "music/menu/mutation",
+              "stream": true
           }
       ]
   },
@@ -170,7 +178,7 @@
               "name": "music/menu/moog_city_2",
               "stream": true
           },
-          {
+           {
               "name": "music/menu/mutation",
               "stream": true
           }
@@ -469,6 +477,14 @@
           {
             "name": "music/game/water/shuniji",
             "stream": true
+          },
+          {
+              "name": "music/menu/menu1",
+              "stream": true
+          },
+          {
+              "name": "music/menu/mutation",
+              "stream": true
           }
       ]
   },
@@ -526,6 +542,14 @@
           {
             "name": "music/game/water/shuniji",
             "stream": true
+          },
+          {
+              "name": "music/menu/menu1",
+              "stream": true
+          },
+          {
+              "name": "music/menu/mutation",
+              "stream": true
           }
       ]
   },
@@ -591,6 +615,14 @@
           {
             "name": "music/game/water/shuniji",
             "stream": true
+          },
+          {
+              "name": "music/menu/menu1",
+              "stream": true
+          },
+          {
+              "name": "music/menu/mutation",
+              "stream": true
           }
       ]
   },
@@ -867,6 +899,14 @@
           {
             "name": "music/game/water/shuniji",
             "stream": true
+          },
+          {
+              "name": "music/menu/menu1",
+              "stream": true
+          },
+          {
+              "name": "music/menu/mutation",
+              "stream": true
           }
       ]
   },
@@ -948,6 +988,14 @@
           {
             "name": "music/game/water/shuniji",
             "stream": true
+          },
+          {
+              "name": "music/menu/menu1",
+              "stream": true
+          },
+          {
+              "name": "music/menu/mutation",
+              "stream": true
           }
       ]
   },
@@ -1013,6 +1061,14 @@
           {
             "name": "music/game/water/shuniji",
             "stream": true
+          },
+          {
+              "name": "music/menu/menu1",
+              "stream": true
+          },
+          {
+              "name": "music/menu/mutation",
+              "stream": true
           }
       ]
   },
@@ -1204,6 +1260,14 @@
           {
               "name": "music/game/wet_hands",
               "stream": true
+          },
+          {
+              "name": "music/menu/menu1",
+              "stream": true
+          },
+          {
+              "name": "music/menu/mutation",
+              "stream": true
           }
       ]
   },
@@ -1336,6 +1400,14 @@
           {
             "name": "music/game/water/shuniji",
             "stream": true
+          },
+          {
+              "name": "music/menu/menu1",
+              "stream": true
+          },
+          {
+              "name": "music/menu/mutation",
+              "stream": true
           }
       ]
   },
@@ -1393,6 +1465,14 @@
           {
             "name": "music/game/water/shuniji",
             "stream": true
+          },
+          {
+              "name": "music/menu/menu1",
+              "stream": true
+          },
+          {
+              "name": "music/menu/mutation",
+              "stream": true
           }
       ]
   },
