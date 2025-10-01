@@ -1,10 +1,9 @@
 {
   "pack": {
+    "description": "Only allows C418's music to play.",
     "pack_format": 18,
-    "supported_formats": {
-      "min_inclusive": 5,
-      "max_inclusive": 18
-    },
-    "description": "Only allows C418's music to play."
+    "min_format": 5,
+    "max_format": 18,
+    "supported_formats": [5, 18]
   }
 }
