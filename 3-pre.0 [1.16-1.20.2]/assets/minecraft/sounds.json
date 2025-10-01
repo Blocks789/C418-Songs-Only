@@ -849,51 +849,51 @@
         "replace": true,
         "sounds": [
             {
-                "name": "calm1",
+                "name": "music/game/calm1",
                 "stream": true
             },
             {
-                "name": "calm2",
+                "name": "music/game/calm2",
                 "stream": true
             },
             {
-                "name": "calm3",
+                "name": "music/game/calm3",
                 "stream": true
             },
             {
-                "name": "hal1",
+                "name": "music/game/hal1",
                 "stream": true
             },
             {
-                "name": "hal2",
+                "name": "music/game/hal2",
                 "stream": true
             },
             {
-                "name": "hal3",
+                "name": "music/game/hal3",
                 "stream": true
             },
             {
-                "name": "hal4",
+                "name": "music/game/hal4",
                 "stream": true
             },
             {
-                "name": "piano1",
+                "name": "music/game/piano1",
                 "stream": true
             },
             {
-                "name": "piano2",
+                "name": "music/game/piano2",
                 "stream": true
             },
             {
-                "name": "piano3",
+                "name": "music/game/piano3",
                 "stream": true
             },
             {
-                "name": "nuance1",
+                "name": "music/game/nuance1",
                 "stream": true
             },
             {
-                "name": "nuance2",
+                "name": "music/game/nuance2",
                 "stream": true
             }
         ]
@@ -902,51 +902,51 @@
         "replace": true,
         "sounds": [
             {
-                "name": "calm1",
+                "name": "music/game/calm1",
                 "stream": true
             },
             {
-                "name": "calm2",
+                "name": "music/game/calm2",
                 "stream": true
             },
             {
-                "name": "calm3",
+                "name": "music/game/calm3",
                 "stream": true
             },
             {
-                "name": "hal1",
+                "name": "music/game/hal1",
                 "stream": true
             },
             {
-                "name": "hal2",
+                "name": "music/game/hal2",
                 "stream": true
             },
             {
-                "name": "hal3",
+                "name": "music/game/hal3",
                 "stream": true
             },
             {
-                "name": "hal4",
+                "name": "music/game/hal4",
                 "stream": true
             },
             {
-                "name": "piano1",
+                "name": "music/game/piano1",
                 "stream": true
             },
             {
-                "name": "piano2",
+                "name": "music/game/piano2",
                 "stream": true
             },
             {
-                "name": "piano3",
+                "name": "music/game/piano3",
                 "stream": true
             },
             {
-                "name": "nuance1",
+                "name": "music/game/nuance1",
                 "stream": true
             },
             {
-                "name": "nuance2",
+                "name": "music/game/nuance2",
                 "stream": true
             }
         ]
