@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "description": "Only allows C418's music to play.",
+    "pack_format": 18,
+    "min_format": 5,
+    "max_format": 18,
+    "supported_formats": [5, 18]
+  }
+}
