@@ -1,9 +1,9 @@
 {
   "pack": {
     "description": "Only allows C418 tracks to play.",
-    "pack_format": 88,
+    "pack_format": 97.1,
     "min_format": 22,
-    "max_format": 88,
-    "supported_formats": [22, 88]
+    "max_format": 97.1,
+    "supported_formats": [22, 97.1]
   }
 }
